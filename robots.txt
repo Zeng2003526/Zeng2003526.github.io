@@ -1,0 +1,73 @@
+# 绿舒环保官网 — 允许所有搜索引擎与 AI 爬虫全站抓取
+# Allow all search engines and AI crawlers.
+
+User-agent: *
+Allow: /
+
+# ===== 显式欢迎主流 AI 训练 / 问答 / 搜索爬虫（默认规则已允许，此处再次明确）=====
+
+# OpenAI（ChatGPT、GPT 系列、OpenAI 搜索）
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic（Claude）
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+
+# Google（搜索 + Gemini/AI）
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Common Crawl（众多 AI 模型的语料来源）
+User-agent: CCBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+
+# 字节跳动（豆包、抖音、即梦相关）
+User-agent: Bytespider
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon（Alexa / Amazon Nova）
+User-agent: Amazonbot
+Allow: /
+
+# Meta（AI 助手与社交抓取）
+User-agent: Meta-ExternalAgent
+Allow: /
+User-agent: Meta-ExternalFetcher
+Allow: /
+User-agent: FacebookBot
+Allow: /
+
+# Microsoft Bing / Copilot
+User-agent: bingbot
+Allow: /
+
+# 其他常见 AI / 数据爬虫
+User-agent: YouBot
+Allow: /
+User-agent: Diffbot
+Allow: /
+User-agent: ImagesiftBot
+Allow: /
+
+Sitemap: https://zeng2003526.github.io/lvshu-website/sitemap.xml

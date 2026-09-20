@@ -70,4 +70,4 @@ Allow: /
 User-agent: ImagesiftBot
 Allow: /
 
-Sitemap: https://zeng2003526.github.io/lvshu-website/sitemap.xml
+Sitemap: https://zeng2003526.github.io/sitemap.xml

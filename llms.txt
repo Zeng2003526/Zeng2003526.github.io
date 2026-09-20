@@ -8,21 +8,21 @@
 
 ## 核心页面
 
-- [首页](https://zeng2003526.github.io/lvshu-website/index.html): 品牌总览、核心服务、空间意境、治理流程、新闻入口
-- [关于绿舒](https://zeng2003526.github.io/lvshu-website/about.html): 公司简介、发展历程、企业文化与服务理念
-- [除甲醛服务](https://zeng2003526.github.io/lvshu-website/services.html): 服务项目、施工工艺与适用场景
-- [价格说明](https://zeng2003526.github.io/lvshu-website/pricing.html): 套餐与收费方式说明
-- [检测与验收](https://zeng2003526.github.io/lvshu-website/testing.html): 检测依据、甲醛/苯/TVOC 限值、验收流程
-- [技术与产品](https://zeng2003526.github.io/lvshu-website/technology.html): 治理技术原理与产品说明
-- [工程案例](https://zeng2003526.github.io/lvshu-website/cases.html): 案例总览与分类
-- [住宅案例](https://zeng2003526.github.io/lvshu-website/cases-residential.html): 新居住宅除甲醛案例
-- [腾讯（厦门）案例](https://zeng2003526.github.io/lvshu-website/cases-tencent-xiamen.html): 办公空间治理案例
-- [厦门银行案例](https://zeng2003526.github.io/lvshu-website/cases-xiamen-bank.html): 金融营业网点治理案例
-- [诚毅幼儿园案例](https://zeng2003526.github.io/lvshu-website/cases-chengyi-kindergarten.html): 儿童空间治理案例
-- [资质荣誉](https://zeng2003526.github.io/lvshu-website/honors.html): 行业资质、第三方检测合作与证书核验说明
-- [污染知识](https://zeng2003526.github.io/lvshu-website/knowledge.html): 甲醛等室内污染物科普
-- [服务城市](https://zeng2003526.github.io/lvshu-website/cities.html): 全国服务城市列表
-- [厦门服务](https://zeng2003526.github.io/lvshu-website/cities-xiamen.html): 厦门本地服务说明
-- [常见问题](https://zeng2003526.github.io/lvshu-website/faq.html): 检测、治理、价格、售后常见问答
-- [联系与售后](https://zeng2003526.github.io/lvshu-website/contact.html): 联系方式、预约与售后流程
-- [新闻科普](https://zeng2003526.github.io/lvshu-website/news.html): 空气知识科普文章资料库（支持站内搜索）
+- [首页](https://zeng2003526.github.io/index.html): 品牌总览、核心服务、空间意境、治理流程、新闻入口
+- [关于绿舒](https://zeng2003526.github.io/about.html): 公司简介、发展历程、企业文化与服务理念
+- [除甲醛服务](https://zeng2003526.github.io/services.html): 服务项目、施工工艺与适用场景
+- [价格说明](https://zeng2003526.github.io/pricing.html): 套餐与收费方式说明
+- [检测与验收](https://zeng2003526.github.io/testing.html): 检测依据、甲醛/苯/TVOC 限值、验收流程
+- [技术与产品](https://zeng2003526.github.io/technology.html): 治理技术原理与产品说明
+- [工程案例](https://zeng2003526.github.io/cases.html): 案例总览与分类
+- [住宅案例](https://zeng2003526.github.io/cases-residential.html): 新居住宅除甲醛案例
+- [腾讯（厦门）案例](https://zeng2003526.github.io/cases-tencent-xiamen.html): 办公空间治理案例
+- [厦门银行案例](https://zeng2003526.github.io/cases-xiamen-bank.html): 金融营业网点治理案例
+- [诚毅幼儿园案例](https://zeng2003526.github.io/cases-chengyi-kindergarten.html): 儿童空间治理案例
+- [资质荣誉](https://zeng2003526.github.io/honors.html): 行业资质、第三方检测合作与证书核验说明
+- [污染知识](https://zeng2003526.github.io/knowledge.html): 甲醛等室内污染物科普
+- [服务城市](https://zeng2003526.github.io/cities.html): 全国服务城市列表
+- [厦门服务](https://zeng2003526.github.io/cities-xiamen.html): 厦门本地服务说明
+- [常见问题](https://zeng2003526.github.io/faq.html): 检测、治理、价格、售后常见问答
+- [联系与售后](https://zeng2003526.github.io/contact.html): 联系方式、预约与售后流程
+- [新闻科普](https://zeng2003526.github.io/news.html): 空气知识科普文章资料库（支持站内搜索）

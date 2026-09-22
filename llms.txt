@@ -14,16 +14,30 @@
 - [价格说明](https://zeng2003526.github.io/pricing/): 套餐与收费方式说明
 - [检测与验收](https://zeng2003526.github.io/testing/): 检测依据、甲醛/苯/TVOC 限值、验收流程
 - [技术与产品](https://zeng2003526.github.io/technology/): 治理技术原理与产品说明
-- [工程案例](https://zeng2003526.github.io/cases/): 案例总览与分类
-- [住宅案例](https://zeng2003526.github.io/cases/residential/): 新居住宅除甲醛案例
-- [腾讯（厦门）案例](https://zeng2003526.github.io/cases/tencent-xiamen/): 办公空间治理案例
-- [厦门银行案例](https://zeng2003526.github.io/cases/xiamen-bank/): 金融营业网点治理案例
+- [工程案例](https://zeng2003526.github.io/cases/): 案例总览、分类与高清项目现场图库
 - [资质荣誉](https://zeng2003526.github.io/honors/): 行业资质、第三方检测合作与证书核验说明
 - [污染知识](https://zeng2003526.github.io/knowledge/): 甲醛等室内污染物科普
-- [服务城市](https://zeng2003526.github.io/cities/): 全国服务城市列表与厦门本地服务说明
+- [服务城市](https://zeng2003526.github.io/cities/): 全国服务城市列表与本地服务说明
 - [常见问题](https://zeng2003526.github.io/faq/): 检测、治理、价格、售后常见问答
 - [联系与售后](https://zeng2003526.github.io/contact/): 联系方式、预约与售后流程
 - [新闻科普](https://zeng2003526.github.io/news/): 空气知识科普文章资料库（支持站内搜索）
+
+## 工程案例详情
+
+- [住宅新居案例](https://zeng2003526.github.io/cases/residential/): 新居住宅除甲醛案例
+- [腾讯厦门办公大楼](https://zeng2003526.github.io/cases/tencent-xiamen/): 办公空间治理案例
+- [厦门银行行政大楼](https://zeng2003526.github.io/cases/xiamen-bank/): 金融营业网点治理案例
+- [厦门高崎机场航站楼](https://zeng2003526.github.io/cases/gaoqi-airport/): 交通公共空间治理案例
+- [COMMUNE 连锁餐厅](https://zeng2003526.github.io/cases/commune/): 餐饮空间治理案例
+- [明溪县医院](https://zeng2003526.github.io/cases/mingxi-hospital/): 医疗空间治理案例
+- [集美诚毅幼儿园](https://zeng2003526.github.io/cases/chengyi-kindergarten/): 教育空间治理案例
+- [邦泰物业德阳揽境售楼部](https://zeng2003526.github.io/cases/bangtai-deyang/): 售楼展示空间治理案例
+
+## 服务城市
+
+- [厦门除甲醛服务](https://zeng2003526.github.io/cities/xiamen/): 从家到公共空间的本地服务
+- [三明除甲醛服务](https://zeng2003526.github.io/cities/sanming/): 认真对待每个空间
+- [德阳除甲醛服务](https://zeng2003526.github.io/cities/deyang/): 为展示与生活做好准备
 
 ## 科普文章
 
